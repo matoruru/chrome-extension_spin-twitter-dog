@@ -4,7 +4,7 @@
   <img src="https://user-images.githubusercontent.com/40382980/229731507-5116ce82-a72b-4822-ac73-2d5b5b00dcf2.gif" />
 </p>
 
-## How to install this Extension
+## Installation
 
 Since this extension is freshly made, you have to enable this from your local machine.
 
@@ -35,3 +35,9 @@ Click **Load unpacked** and then select the folder of this repository that you c
 ### 5. Open Twitter
 
 Open [Twitter](https://twitter.com/)! And look at the top left 🐶
+
+## Uninstallation
+
+Open [chrome://extensions/](chrome://extensions/) and then click **Remove**.
+
+<img width="503" alt="image" src="https://user-images.githubusercontent.com/40382980/229735482-fdb13f99-217c-421c-97bf-518a371e90b4.png">
