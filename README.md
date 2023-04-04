@@ -51,3 +51,7 @@ Open [Twitter](https://twitter.com/)! And look at the top left 🐶
 Open [chrome://extensions/](chrome://extensions/) and then click **Remove**.
 
 <img width="503" alt="image" src="https://user-images.githubusercontent.com/40382980/229735482-fdb13f99-217c-421c-97bf-518a371e90b4.png">
+
+## Articles
+
+[DEV Community - Chrome extension for spinning Twitter dog](https://dev.to/matoruru/chrome-extension-for-spinning-twitter-dog-3dad)
