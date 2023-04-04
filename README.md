@@ -1,5 +1,4 @@
-<h1 align="center">chrome-extension_spin-twitter-dog 🐶🔁</h1>
-<p align="center">Spin your Twitter dog!!! 🐶</p>
+<h1 align="center">Chrome Extension - Spin Twitter Dog 🐶🔁</h1>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/40382980/229731507-5116ce82-a72b-4822-ac73-2d5b5b00dcf2.gif" />
 </p>
