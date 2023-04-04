@@ -1,6 +1,8 @@
 <h1 align="center">chrome-extension_spin-twitter-dog 🐶🔁</h1>
 <p align="center">Spin your Twitter dog!!! 🐶</p>
-<p align="center">![spintwitterdog](https://user-images.githubusercontent.com/40382980/229731507-5116ce82-a72b-4822-ac73-2d5b5b00dcf2.gif)</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/40382980/229731507-5116ce82-a72b-4822-ac73-2d5b5b00dcf2.gif" />
+</p>
 
 ## How to install this Extension
 
