@@ -10,6 +10,8 @@ Since this extension is freshly made, you have to enable this from your local ma
 
 ### 1. Clone this repository
 
+Clone this repo wherever you want.
+
 ```
 gh repo clone matoruru/chrome-extension_spin-twitter-dog
 ```
@@ -20,19 +22,27 @@ or
 git clone git@github.com:matoruru/chrome-extension_spin-twitter-dog.git
 ```
 
-### 2. Open Extensions setting
+### 2. Generate .js file
+
+Do this:
+
+```
+yarn && yarn build
+```
+
+### 3. Open Extensions setting
 
 Open [chrome://extensions/](chrome://extensions/).
 
-### 3. Enable developer mode
+### 4. Enable developer mode
 
 <img width="339" alt="image" src="https://user-images.githubusercontent.com/40382980/229732976-dae6635f-4caf-4121-aa11-c2fe7e706170.png">
 
-### 4. Load this extension
+### 5. Load this extension
 
 Click **Load unpacked** and then select the folder of this repository that you cloned at the step **1.**.
 
-### 5. Open Twitter
+### 6. Open Twitter
 
 Open [Twitter](https://twitter.com/)! And look at the top left 🐶
 
