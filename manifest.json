@@ -13,8 +13,8 @@
   "content_scripts": [
     {
       "matches": [
-        "https://*/applications*",
-        "http://*/applications*"
+        "https://twitter.com/*",
+        "http://twitter.com/*"
       ],
       "js": [
         "./extension/app.js"
