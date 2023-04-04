@@ -53,4 +53,5 @@ Open [chrome://extensions/](chrome://extensions/) and then click **Remove**.
 
 ## Articles
 
-[DEV Community - Chrome extension for spinning Twitter dog](https://dev.to/matoruru/chrome-extension-for-spinning-twitter-dog-3dad)
+- [Chrome extension for spinning Twitter dog - DEV Community](https://dev.to/matoruru/chrome-extension-for-spinning-twitter-dog-3dad)
+- [Twitterの犬(Doge)が回るChrome拡張機能を作った - Zenn](https://zenn.dev/matoruru/articles/4b7a9536023b9a)
