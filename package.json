@@ -1,0 +1,9 @@
+{
+  "name": "chrome-extension_spin-twitter-dog",
+  "version": "1.0.0",
+  "main": "extension/app.js",
+  "repository": "git@github.com:matoruru/chrome-extension_spin-twitter-dog.git",
+  "author": "matoruru <matoruru@shgt.jp>",
+  "license": "MIT",
+  "private": true
+}
