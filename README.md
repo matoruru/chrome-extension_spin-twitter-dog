@@ -3,6 +3,8 @@
   <img src="https://user-images.githubusercontent.com/40382980/229731507-5116ce82-a72b-4822-ac73-2d5b5b00dcf2.gif" />
 </p>
 
+⚠️This extension is DEPRECATED since the twitter dog's gone 😢⚠️
+
 ## Installation
 1. Open [Spin Twitter Dog - Chrome Web Store](https://chrome.google.com/webstore/detail/spin-twitter-dog/ehceiaeeekejjgjdnelbkkcccjanebno/related)
 2. Click **Add to Chrome** to install this extension to your browser.
