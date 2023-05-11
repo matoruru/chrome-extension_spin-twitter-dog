@@ -4,52 +4,9 @@
 </p>
 
 ## Installation
-
-Since this extension is freshly made, you have to enable this from your local machine.
-
-### 1. Clone this repository
-
-Clone this repo wherever you want.
-
-```
-gh repo clone matoruru/chrome-extension_spin-twitter-dog
-```
-
-or
-
-```
-git clone git@github.com:matoruru/chrome-extension_spin-twitter-dog.git
-```
-
-### 2. Generate .js file
-
-Do this:
-
-```
-yarn && yarn build
-```
-
-### 3. Open Extensions setting
-
-Open [chrome://extensions/](chrome://extensions/).
-
-### 4. Enable developer mode
-
-<img width="339" alt="image" src="https://user-images.githubusercontent.com/40382980/229732976-dae6635f-4caf-4121-aa11-c2fe7e706170.png">
-
-### 5. Load this extension
-
-Click **Load unpacked** and then select the folder of this repository that you cloned at the step **1.**.
-
-### 6. Open Twitter
-
-Open [Twitter](https://twitter.com/)! And look at the top left 🐶
-
-## Uninstallation
-
-Open [chrome://extensions/](chrome://extensions/) and then click **Remove**.
-
-<img width="503" alt="image" src="https://user-images.githubusercontent.com/40382980/229735482-fdb13f99-217c-421c-97bf-518a371e90b4.png">
+1. Open [Spin Twitter Dog - Chrome Web Store](https://chrome.google.com/webstore/detail/spin-twitter-dog/ehceiaeeekejjgjdnelbkkcccjanebno/related)
+2. Click **Add to Chrome** to install this extension to your browser.
+3. Open [Twitter](https://twitter.com) to see the dog spins! And look at the top left 🐶
 
 ## Articles
 
